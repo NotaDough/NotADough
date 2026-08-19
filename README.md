@@ -1,6 +1,5 @@
-<div align="center">
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Mark%20Angelo%20Notado&fontSize=50&fontColor=fff&animation=fadeIn)
-</div>
 
 <div align="center">
 
