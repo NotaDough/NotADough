@@ -23,6 +23,8 @@ I am a dedicated Full Stack Developer with a strong foundation in software engin
 
 ![GitHub Stats](https://github-readme-stats-six-navy-56.vercel.app/api?username=NotADough&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
+</br>
+
 ![Top Languages](https://github-readme-stats-six-navy-56.vercel.app/api/top-langs/?username=NotADough&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 
 </div>
