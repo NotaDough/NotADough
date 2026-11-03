@@ -31,8 +31,8 @@ I am a dedicated Full Stack Developer with a strong foundation in software engin
 
 ### 🌱 Currently
 
-- 📚 Learning: **Typescript**
-- 🤝 Open to collaborate on: **Full stack applications, RESTful API development, UI/UX design projects**
+- 📚 Learning: **JAVA**
+- 🤝 Open to collaborate on: **Full stack applications, RESTful API development**
 
 ---
 
